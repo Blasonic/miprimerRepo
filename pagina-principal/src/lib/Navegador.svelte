@@ -17,10 +17,7 @@
         <a href="#">Login</a>
         <a href="#">Registrarse</a>
         <a href="#"><img src="imagenes/carrito.png" alt="Ícono de carrito" /></a>
-    </nav>
-    
-       
-   
+    </nav> 
 </div>
 <style>
     .navegador {
